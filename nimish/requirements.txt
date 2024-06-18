@@ -1,0 +1,7 @@
+Flask
+azure-cosmos
+pymongo[srv]
+python-dotenv
+openai[datalib]==0.28
+requests==2.27.1
+opencensus-ext-azure
